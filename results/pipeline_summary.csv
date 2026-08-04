@@ -1,0 +1,5 @@
+metric,value
+dirty_rows_processed,90
+missing_fields_imputed,51
+delivery_fee_outliers_removed,15
+suburbs_transformed,202

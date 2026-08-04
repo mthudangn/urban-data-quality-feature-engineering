@@ -1,0 +1,10 @@
+measure,value
+boxcox_lambda_number_of_units,0.12690018098269226
+boxcox_lambda_number_of_houses,0.18280267261662375
+boxcox_lambda_median_house_price,-0.1961898690714599
+max_absolute_feature_correlation,0.6094067389044708
+std_median_income,0.7163645084778004
+aus_born_perc,0.35417469385592887
+boxcox_number_of_units,0.3197157304633495
+boxcox_number_of_houses,-0.08701261576080155
+sqrt_population,-0.2536445142508955
